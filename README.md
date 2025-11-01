@@ -5,6 +5,7 @@ Although MEX enables customizable and cost-effective part production, it suffers
 The objective of this work is to develop a solid surrogate model generation tool that maintains acceptable predictive accuracy while significantly reducing simulation time and complexity. This supports the creation of surrogate datasets for machine learning models, model order reduction, or fast design evaluation in MEX-printed parts.
 
 By automating the generation of a keyed shaft solid model with appropriate boundary conditions, materials, meshing, and loading in Abaqus, this tool contributes to the broader goal of enabling open-access, scalable, and intelligent simulation for additive manufacturing applications.
+
 Features
 	•	Research-focused surrogate model generation
 	•	Parametric keyed shaft geometry
